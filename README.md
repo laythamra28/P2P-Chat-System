@@ -45,4 +45,8 @@ Screenshot showing the user Database:
 
 ![alt text](images/usersdb.png)
 
+Screenshow showing the messages Database:
+
+![alt text](images/messagesdb.png) 
+
 
