@@ -22,6 +22,18 @@ python p2pFinal.py
 
 ## How it works
 
+### Logging In
+
 After running the above code in the command line you will be prompted with 2 options either to login(A) or to Create an account(B). If this is your first time running the code then you should proceed with option B and create an account in the database(which is just your name in this instance). 
 
-After creating an account or logging into an existing one, you will be shown your current contact list of people you have added as friends. You will then be prompted with 2 options to either add a user(A) or to connect to a user(B). If you want to add a ser
+### Adding friend to contact list
+
+After creating an account or logging into an existing one, you will be shown your current contact list of people you have added as friends. You will then be prompted with 2 options to either add a user(A) or to connect to a user(B). If you want to add a user to your contact list then you proceed with option A and it will ask you for the users IP address that youd like to add. 
+
+### Connect to friend already in contact list
+
+If you are trying to connect to a user then you proceed with option B which will then ask you for the username of the user you are trying to connect to. If you friend is online then it will connect to them and allow for messaging. If the friend is not online it will give you the option to start a session. This allows the other user to join your session. 
+
+### Offline Messaging(Message Synchornization)
+
+If you have started a session and the other user is not currently online then you have the option 
