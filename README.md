@@ -40,3 +40,7 @@ If you have started a session and the other user is not currently online then yo
 
 ## Databases 
 
+Screenshot showing the user Database:
+
+
+
