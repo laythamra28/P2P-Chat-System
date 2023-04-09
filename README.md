@@ -42,5 +42,6 @@ If you have started a session and the other user is not currently online then yo
 
 Screenshot showing the user Database:
 
+![alt text](https://github.com/laythamra28/Breast-Cancer-Classification/blob/main/Results/Learning-curves-All.png)
 
 
