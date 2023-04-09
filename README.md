@@ -1,9 +1,11 @@
 # P2P-Chat-System
 
 ## Requirements
-socket
-threading
-sqlalchemy
+-socket
+
+-threading
+
+-sqlalchemy
 
 ## Installation Guide Lines
 
