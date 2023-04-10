@@ -44,7 +44,11 @@ If you are trying to connect to a user then you proceed with option B which will
 If you have started a session and the other user is not currently online then you can still send the messages to the other user and it will be sent to them the next time you guys are in a session together. 
 
 #### 5. Demo Video
-https://github.com/laythamra28/P2P-Chat-System/blob/main/P2P_Demo.mp4
+
+
+
+            P2P_Demo.mp4
+          
 
 ## Databases 
 
@@ -56,6 +60,6 @@ Screenshow showing the messages Database:
 
 ![alt text](images/messagesdb.png) 
 
-## Video Tutorial
+
 
 
