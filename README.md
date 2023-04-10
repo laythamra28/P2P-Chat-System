@@ -46,11 +46,12 @@ If you have started a session and the other user is not currently online then yo
 #### 5. Demo Video
 
 
+https://user-images.githubusercontent.com/22237564/230835455-01be919f-9777-456e-bfb8-cd39c91e564d.mp4
 
-            P2P_Demo.mp4
-          
+
 
 ## Databases 
+We use a SQL database with a Users table to store users username and their IP address. We also use a Messages table to store the message itself, the sender, reciver and the sent status. We use a boolean sent status variable to record whether the message was actually sent. This is because our P2P chat system supports 
 
 Screenshot showing the user Database:
 
@@ -60,6 +61,6 @@ Screenshow showing the messages Database:
 
 ![alt text](images/messagesdb.png) 
 
-
+## Video Tutorial
 
 
