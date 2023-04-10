@@ -2,7 +2,7 @@
 
 ## Authors
 
-Layth Amra & Rashid Kholagassi
+Layth Amra & Rashid Kolagassi
 
 ## Overview
 
