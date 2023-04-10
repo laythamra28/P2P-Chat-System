@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/22237564/230835517-f016c71e-769b-47cf-
 
 
 ## Databases 
-We use a SQL database with a Users table to store users username and their IP address. We also use a Messages table to store the message itself, the sender, reciver and the sent status. We use a boolean sent status variable to record whether the message was actually sent. This is because our P2P chat system supports 
+We use a SQL database with a Users table to store users username and their IP address. We also use a Messages table to store the message itself, the sender, reciver and the sent status. We use a boolean sent status variable to record whether the message was actually sent. This is because our P2P chat system supports sending messages while offline.
 
 Screenshot showing the user Database:
 
