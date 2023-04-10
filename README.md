@@ -1,5 +1,9 @@
 # P2P-Chat-System
 
+## Authors
+
+Layth Amra & Rashid Kholagassi
+
 ## Overview
 
 
