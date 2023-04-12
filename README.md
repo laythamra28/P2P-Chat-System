@@ -2,7 +2,7 @@
 
 ## Authors
 
-Layth Amra & Rashid Kolaghassi & Max Malmut
+Layth Amra & Rashid Kolaghassi & Max Malamut
 
 ## Overview
 
